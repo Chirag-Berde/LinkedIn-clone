@@ -1,0 +1,34 @@
+body{
+ overflow-x: hidden;
+
+}
+.navbar-custom {
+    list-style: none;
+    margin: 5px 20px;
+
+}
+
+.button-custom {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.people-custom{
+    font-size: 30px;
+}
+.colleagues-custom{
+    font-size: 53px;
+}
+.footer-section ul li{
+  list-style: none;
+}
+#people{
+    margin-top: 100px;
+}
+#learning{
+    margin-top: 100px;
+}
+.footer-custom{
+    margin-top: 100px;
+}
